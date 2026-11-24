@@ -1,8 +1,8 @@
 # Kadir Uyanik
 
-### Robotics software, from sensing to motion.
+### Robotics software for human-aware autonomy.
 
-I build software that helps robots perceive, move and interact with people. My work spans 15+ years of research, startups and hands-on integration: teleoperation, calibration, simulation, robot learning and live performance.
+I build software that helps robots perceive, move and interact with the physical world, with awareness of the people around them. My work spans 15+ years of research, startups and hands-on integration: teleoperation, calibration, simulation, robot learning and live performance.
 
 Based in San Francisco. **C++ · Python · ROS / ROS 2 · Linux · robot systems integration.**
 
