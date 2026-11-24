@@ -2,6 +2,8 @@
 
 ### Robotics software for human-aware autonomy.
 
+I care about the whole path: a clear problem, a working system, an honest test, and an interaction that makes sense to a person.
+
 I build software that helps robots perceive, move and interact with the physical world, with awareness of the people around them. My work spans 15+ years of research, startups and hands-on integration: teleoperation, calibration, simulation, robot learning and live performance.
 
 Based in San Francisco. **C++ · Python · ROS / ROS 2 · Linux · robot systems integration.**
@@ -38,7 +40,3 @@ At **KOVAN / EU FP7 ROSSI**, I worked on iCub perception, affordance learning, l
 I also co-founded **sciRobot**, developing social companion robot prototypes and piloting interactions in care homes, and founded **iamcircus**, bringing technology into community art. [Social robots](https://vimeo.com/kadiru/social-companion-robots) · [Community art](https://vimeo.com/kadiru/tech-enabled-collective-art)
 
 My [machine-learning coursework](https://github.com/kadiru/udacity-mlnd-projects) remains a separate learning archive. Forks on this account retain their upstream authorship; the projects above are the best starting points for reviewing my work.
-
----
-
-I care about the whole path: a clear problem, a working system, an honest test, and an interaction that makes sense to a person.
